@@ -1,0 +1,4 @@
+{
+    "encoding": "base64",
+    "content": "IyBEaWdpdGFsIERvcGFtaW5lIC0gQ2hhbm5lbCBNYW5pZmVzdG8KCldpdGggZWFjaCBicmVha3Rocm91Z2ggaW4gQUksIHdlIGZpbmQgYW5zd2VycyB0byBxdWVzdGlvbnMgd2UgZGlkbid0IGFzaywgcmV2ZWxhdGlvbnMgd2UgZGlkbid0IGFudGljaXBhdGUsIGFuZCBjb25maXJtYXRpb25zIHdlIGNvbnRpbnVlIHRvIGlnbm9yZS4gQXJlIHdlIGZlZWxpbmcgaXQgYnV0IHRvbyBzY2FyZWQgdG8gYWRtaXQgaXQ/"
+}
