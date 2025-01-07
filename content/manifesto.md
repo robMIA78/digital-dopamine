@@ -1,4 +1,3 @@
-{
-    "encoding": "base64",
-    "content": "IyBEaWdpdGFsIERvcGFtaW5lIC0gQ2hhbm5lbCBNYW5pZmVzdG8KCldpdGggZWFjaCBicmVha3Rocm91Z2ggaW4gQUksIHdlIGZpbmQgYW5zd2VycyB0byBxdWVzdGlvbnMgd2UgZGlkbid0IGFzaywgcmV2ZWxhdGlvbnMgd2UgZGlkbid0IGFudGljaXBhdGUsIGFuZCBjb25maXJtYXRpb25zIHdlIGNvbnRpbnVlIHRvIGlnbm9yZS4gQXJlIHdlIGZlZWxpbmcgaXQgYnV0IHRvbyBzY2FyZWQgdG8gYWRtaXQgaXQ/"
-}
+# Digital Dopamine - Channel Manifesto
+
+With each breakthrough in AI, we find answers to questions we didn't ask, revelations we didn't anticipate, and confirmations we continue to ignore. Are we feeling it but too scared to admit it?
